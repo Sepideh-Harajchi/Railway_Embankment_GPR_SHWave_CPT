@@ -162,3 +162,171 @@ continuity, and lateral heterogeneity.
 [View Dix-derived velocity parameters](03_Seismic/02_dix_outputs/dix_layer_parameters.csv)
 
 
+### 04_CPTs
+
+This folder contains cone penetration test (CPT) datasets
+and derived geotechnical parameters used to characterize
+subsurface stratigraphy and soil variability within and
+adjacent to the railway embankment.
+
+The investigation includes 15 CPT soundings: 13 in the
+adjacent ground and two within the railway embankment.
+
+The datasets include cone resistance (qc), sleeve friction
+(fs), friction ratio (Rf), and empirically estimated
+shear-wave velocity (Vs).
+
+#### CPT databases
+
+- **`CPT_Master_Database.xlsx`** — Consolidated CPT
+  measurements and associated geotechnical information.
+
+- **`CPT_Embankment_Master_Database.xlsx`** — CPT
+  measurements for the railway embankment, including
+  CPT 409 and CPT 393.
+
+#### Outputs
+
+The `Outputs` subfolder contains four figures presenting
+the CPT-derived geotechnical profiles relative to the
+Dutch vertical datum (NAP).
+
+##### Cone resistance (qc)
+
+<p align="center">
+  <img src="04_CPTs/Outputs/01_qc_profiles_NAP.png"
+       width="850" alt="CPT cone resistance profiles">
+</p>
+
+<p align="center">
+  <em>Cone resistance (qc) profiles for the investigated
+  CPT locations, plotted relative to NAP.</em>
+</p>
+
+##### Sleeve friction (fs)
+
+<p align="center">
+  <img src="04_CPTs/Outputs/02_fs_profiles_NAP.png"
+       width="850" alt="CPT sleeve friction profiles">
+</p>
+
+<p align="center">
+  <em>Sleeve friction (fs) profiles illustrating
+  variations in soil resistance with elevation
+  across the investigated CPT locations.</em>
+</p>
+
+##### Friction ratio (Rf)
+
+<p align="center">
+  <img src="04_CPTs/Outputs/03_Rf_profiles_NAP.png"
+       width="850" alt="CPT friction ratio profiles">
+</p>
+
+<p align="center">
+  <em>Friction ratio (Rf) profiles used to support
+  soil characterization and identify changes
+  in subsurface material properties.</em>
+</p>
+
+##### CPT-derived shear-wave velocity (Vs)
+
+<p align="center">
+  <img src="04_CPTs/Outputs/04_Vs_profiles_NAP.png"
+       width="850" alt="CPT-derived shear-wave velocity">
+</p>
+
+<p align="center">
+  <em>CPT-derived shear-wave velocity (Vs) profiles,
+  estimated using the empirical relationship of
+  Robertson (2009), illustrating variations in
+  subsurface stiffness relative to NAP.</em>
+</p>
+
+Together, these datasets provide geotechnical constraints
+for interpreting GPR reflections and SH-wave seismic
+velocity variations.
+
+
+
+### 05_Integration
+
+This folder contains the integrated interpretation of GPR,
+SH-wave seismic reflection, and CPT results used to evaluate
+subsurface layering, lateral heterogeneity, and variations
+in soil properties within and adjacent to the railway embankment.
+
+The figures compare geophysical observations with CPT-derived
+geotechnical parameters and present the estimated SH-wave
+velocity models.
+
+#### Figure 8 — Integrated GPR and CPT interpretation
+
+<p align="center">
+  <img src="05_Integration/Fig8.png" width="850"
+       alt="Figure 8 - GPR and CPT comparison">
+</p>
+
+<p align="center">
+  <em>Figure 8. Comparison of GPR interpretations with
+  CPT-derived geotechnical parameters, illustrating
+  subsurface layering and variations in soil properties.</em>
+</p>
+
+#### Figure 9 — Geophysical and geotechnical comparison
+
+<p align="center">
+  <img src="05_Integration/Fig9.png" width="850"
+       alt="Figure 9 - Integrated interpretation">
+</p>
+
+<p align="center">
+  <em>Figure 9. Comparison of geophysical observations
+  and geotechnical profiles, providing complementary
+  constraints on subsurface stratigraphy and soil
+  heterogeneity.</em>
+</p>
+
+#### Figure 10 — GPR and CPT comparison
+
+<p align="center">
+  <img src="05_Integration/Fig10.png" width="850"
+       alt="Figure 10 - GPR and CPT comparison">
+</p>
+
+<p align="center">
+  <em>Figure 10. Comparison of GPR radargrams from
+  profiles L4 and L5 with CPT-derived shear-wave
+  velocity (Vs), cone resistance (qc), and sleeve
+  friction (fs).</em>
+</p>
+
+#### Figure 11 — Dix-derived SH-wave velocity models
+
+<p align="center">
+  <img src="05_Integration/Fig11_a.png" width="850"
+       alt="Figure 11a - Interval velocity profiles">
+</p>
+
+<p align="center">
+  <em>(a) Dix-derived interval SH-wave velocity–depth
+  profiles for seismic Lines A, B, and C.</em>
+</p>
+
+<p align="center">
+  <img src="05_Integration/Fig11_b.png" width="850"
+       alt="Figure 11b - Layered velocity models">
+</p>
+
+<p align="center">
+  <em>(b) Layered SH-wave velocity models showing
+  estimated interval velocities and layer thicknesses
+  for the investigated seismic lines, including
+  the different receiver configurations along Line C.</em>
+</p>
+
+The integrated results provide complementary constraints
+on subsurface stratigraphy and lateral variability,
+helping identify potential anomalies that warrant
+further geotechnical investigation.
+

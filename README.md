@@ -8,7 +8,7 @@ Integrated GPR, SH-wave seismic reflection, and CPT datasets for railway embankm
 
 **Integrated GPR, SH-wave seismic reflection, and CPT investigation for railway embankment and soft-ground characterization**
 
-Manuscript prepared for *Transportation Geotechnics*. Update the publication status when confirmed.
+Manuscript prepared for *Transportation Geotechnics*. 
 
 ---
 

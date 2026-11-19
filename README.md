@@ -8,7 +8,7 @@ Integrated GPR, SH-wave seismic reflection, and CPT datasets for railway embankm
 
 **Integrated GPR, SH-wave seismic reflection, and CPT investigation for railway embankment and soft-ground characterization**
 
-Manuscript submitted to the *Transportation Geotechnics*. 
+Manuscript submitted to the **Transportation Geotechnics**. 
 
 ---
 
@@ -133,8 +133,3 @@ Figures comparing geophysical interpretations with geotechnical information, tog
 
 The integrated interpretation constrains subsurface layering and lateral heterogeneity and identifies potential anomalies for further geotechnical investigation.
 
----
-
-## Notes on data interpretation
-
-GPR depths are approximate because a single effective electromagnetic velocity was used for a heterogeneous subsurface. CPT-derived Vs estimates are empirical; seismic interval velocities depend on the assumptions of the velocity analysis. Interpretations should therefore be considered alongside the available geotechnical evidence.
